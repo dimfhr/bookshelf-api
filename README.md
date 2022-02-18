@@ -1,2 +1,2 @@
 # bookshelf-api
-Bookshelf API Dicoding Submission
+Repo ini adalah submission dari kelas Belajar Membuat Aplikasi Back-end untuk Pemula. Kalian bisa melihat repo ini untuk belajar
